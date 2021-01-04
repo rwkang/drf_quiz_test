@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+.Python
+venv/
+
+db.sqlite3
+.DS_Store
+
+.vscode/
+
+quiz_app_lecture/
+quiz_drf_lecture/
